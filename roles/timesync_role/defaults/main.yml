@@ -1,0 +1,11 @@
+---
+
+timesync_timezone: Asia/Kolkata
+
+timesync_ntp_servers:
+        - 0.pool.ntp.org
+        - 1.pool.ntp.org
+
+timesync_fallback_servers:
+        - 2.pool.ntp.org
+        - 3.pool.ntp.org
